@@ -74,7 +74,7 @@ li.home-btn-login.nav-item:hover .nav-link {
   cursor: pointer;
 }
 .home {
-  margin-left: 140px;
+  margin-left: 90px;
   display: flex;
   justify-content: center;
   margin-top: 50px;
